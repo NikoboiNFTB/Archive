@@ -23,7 +23,7 @@ A non-exhaustive table of repo -> folder structure.
 
 ## Contributing
 
-This repository is not open for Issues or Pull Requests. Any of those should be directed to their corresponding up-to-date repositories.
+This repository is not open to Issues or Pull Requests. Everything here is old or deprecated, and the archived versions are not maintained. Please direct any issues or requests to the corresponding up-to-date repository. If you are unsure which repository a specific item belongs to, contact me at [contact@nikoboi.dev](mailto:contact@nikoboi.dev).
 
 ## License
 
