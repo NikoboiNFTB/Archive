@@ -1,8 +1,13 @@
-# dev.nikoboi.old
+# Archive
 
-Repository for old/legacy stuff. Deprecated things some may find useful.
+Archive for my old, legacy, and deprecated projects that may still be useful to others. Old versions of updated projects are kept here.
+
+> [!WARNING]
+> Projects in this repository are no longer maintained or updated. **Use at your own risk**.
 
 ## Correspondence
+
+A non-exhaustive table of repo -> folder structure.
 
 | Repo                                                                          | Folder                                            |
 | ----------------------------------------------------------------------------- | ------------------------------------------------- |
@@ -16,6 +21,10 @@ Repository for old/legacy stuff. Deprecated things some may find useful.
 | [TikTok-Tools](https://github.com/NikoboiNFTB/TikTok-Tools)                   | [/TikTok-Tools](/TikTok-Tools/)                   |
 | [YouTube-Tweaks](https://github.com/NikoboiNFTB/YouTube-Tweaks)               | [/YouTube-Tweaks](/YouTube-Tweaks/)               |
 
-## Note
+## Contributing
 
-Projects in this repository are no longer maintained or updated. **Use at your own risk**.
+This repository is not open for Issues or Pull Requests. Any of those should be directed to their corresponding up-to-date repositories.
+
+## License
+
+This archive is licensed under the GNU General Public License V3. See [LICENSE](/LICENSE) for details.
